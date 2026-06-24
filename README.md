@@ -48,5 +48,4 @@ The project is open source and contributions are welcome. More details coming as
 ---
 
 ## License
-
-TBD — will be open source.
+MIT
